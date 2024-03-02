@@ -1,0 +1,35 @@
+.logo img {
+    width: 500px;
+    margin-left: 120px;
+    margin-top: 20px;
+    margin-right: -120px;
+}
+
+.upperpart {
+    display: flex;
+}
+
+.imp-bg {
+    background-color: #fceae8;
+}
+
+.panda-btn {
+    background-color: fuchsia;
+    color: aliceblue;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+.links {
+    text-align: center;
+    justify-content: center;
+}
+
+.nav_bar {
+    display: flex;
+    /* position: absolute; */
+    right: 0;
+    padding-right: 60%;
+    /* margin-right: -80px; */
+}
